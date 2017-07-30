@@ -1,0 +1,12 @@
+Flight: Dallas to Houston (Cost)
+Dallas -> Houston
+Cost: 101 Time: 51
+Dallas -> Austin -> Houston
+Cost: 193 Time: 86
+Dallas -> New York -> Houston
+Cost: 240 Time: 140
+
+Flight: Dallas to Austin (Cost)
+Dallas -> Austin
+Cost: 98 Time: 47
+
